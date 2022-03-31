@@ -110,6 +110,9 @@ var userProfileL10n = {"user_id":"0","nonce":"da23e86693"};
 } )( "default", {"translation-revision-date":"2022-02-22 09:18:42+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"zh_TW"},"Your new password has not been saved.":["新密碼尚未儲存。"],"Hide":["隱藏"],"Show":["顯示"],"Confirm use of weak password":["確認使用安全強度較弱的密碼"],"Hide password":["隱藏密碼"],"Show password":["顯示密碼"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
 <script src="http://lodiacotw.github.io/lodiaco/wp-admin/js/user-profile.min.js?ver=5.9.2" id="user-profile-js"></script>
-	<div class="clear"></div>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+		<div class="clear"></div>
 	</body>
 	</html>
