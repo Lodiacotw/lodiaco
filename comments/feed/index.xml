@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	《lodiaco》的留言	</title>
-	<atom:link href="http://lodiacotw.github.io/lodiaco/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://lodiacotw.github.io/lodiaco</link>
+	<atom:link href="https://lodiacotw.github.io/lodiaco/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lodiacotw.github.io/lodiaco</link>
 	<description>self introduce</description>
 	<lastBuildDate></lastBuildDate>
 	<sy:updatePeriod>
