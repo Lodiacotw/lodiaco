@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>lodiaco</title>
+	<title>張立楷</title>
 	<atom:link href="https://lodiacotw.github.io/lodiaco/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lodiacotw.github.io/lodiaco</link>
-	<description>self introduce</description>
-	<lastBuildDate>Sun, 03 Apr 2022 05:28:32 +0000</lastBuildDate>
+	<description>國立清華大學動力機械工程學系</description>
+	<lastBuildDate>Wed, 24 Aug 2022 15:38:30 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
